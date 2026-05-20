@@ -2,23 +2,10 @@
 
 <h3 align="center"> asset management infrastructure for everyone.</h3>
 
-<p align="center">
-  <a href="https://github.com/Shelf-nu/shelf.nu/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shelf-nu/shelf.nu?label=License" alt="License" /></a>
-  <a href="https://github.com/Shelf-nu/shelf.nu/actions/workflows/deploy.yml"><img src="https://github.com/Shelf-nu/shelf.nu/actions/workflows/deploy.yml/badge.svg" alt="Deploy" /></a>
-  <a href="https://github.com/Shelf-nu/shelf.nu/stargazers"><img src="https://img.shields.io/github/stars/Shelf-nu/shelf.nu" alt="Stars" /></a>
-  <a href="https://discord.gg/8he9W7aTJu"><img src="https://img.shields.io/badge/Discord-community-blue?logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.shelf.nu/?ref=github"><b>Website</b></a> &middot;
-  <a href="https://docs.shelf.nu/?ref=github"><b>Documentation</b></a> &middot;
-  <a href="https://discord.gg/8he9W7aTJu"><b>Discord</b></a> &middot;
-  <a href="https://twitter.com/ShelfQR/?ref=github"><b>Twitter</b></a>
-</p>
 
 ---
 
-This is a platform for tracking physical assets — equipment, devices, tools, vehicles, props, inventory. It's built for teams that need to know what they have, where it is, and who's using it. Organizations use Shelf to manage thousands of assets across locations with role-based access for their teams.
+This is a platform for tracking physical assets — equipment, devices, tools, vehicles, props, inventory. It's built for teams that need to know what they have, where it is, and who's using it. Organizations use it to manage thousands of assets across locations with role-based access for their teams.
 
 ## Features
 
